@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.jar.Manifest;
 
 public class MainActivity extends AppCompatActivity {
-//
+//123
     private LocationClient mLocationClient;
     private TextView positionText;
     private MapView mapView;
