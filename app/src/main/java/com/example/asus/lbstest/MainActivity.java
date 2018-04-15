@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 //                return false;
 //            }
 //        });
-        //123
+        //123124
         List<String> permissionList = new ArrayList<>();
         if (ContextCompat.checkSelfPermission(MainActivity.this,
                 android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
